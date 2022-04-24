@@ -1,0 +1,3 @@
+User-Agents: *
+Allow: /
+sitemap: https://nataliepjlin.github.io/site/sitemap.xml
